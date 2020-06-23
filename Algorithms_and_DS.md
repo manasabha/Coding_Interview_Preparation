@@ -5,7 +5,8 @@
 #### Advance DS
 1. [Tries](https://www.geeksforgeeks.org/trie-insert-and-search/)
     1. [Using Ordered Dict](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/58953/AC-Python-solution-using-defaultdict)
-
+#### Tree Traversals
+1. [Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/31381/Python-recursive-and-iterative-solutions.)
 #### Linked Lists (LL)
 1. Nth from the End of LL 
     - O(1) Space O(n)
