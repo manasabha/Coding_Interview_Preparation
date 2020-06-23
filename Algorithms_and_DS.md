@@ -2,10 +2,6 @@
 #### [Big Os for Python Basic Operations](https://wiki.python.org/moin/TimeComplexity)
 #####  [Learn from Scratch](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
-#### Advance DS
-1. [Tries](https://www.geeksforgeeks.org/trie-insert-and-search/)
-    1. [Using Ordered Dict](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/58953/AC-Python-solution-using-defaultdict)
-    
 #### Linked Lists (LL)
 1. Nth from the End of LL 
     - O(1) Space O(n)
@@ -23,6 +19,7 @@
 6. LL Palindrome
 7. LL + Random Links
 
+### Trees
 Most of tree problems can be thought of graph problems and bfs/dfs can solve them.
 #### Tree Traversals
 1. [Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/31381/Python-recursive-and-iterative-solutions.)
@@ -35,6 +32,11 @@ Most of tree problems can be thought of graph problems and bfs/dfs can solve the
 2. [Least Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/322190/python-very-simple-iterative-solution.-faster-than-99.)
 3. [Is Binary Tree a BST](https://leetcode.com/problems/validate-binary-search-tree/)
 
+#### Trees
+1. Balanced Trees
+2. Path Sum - From root to leaf, Any path
+3. 
+
 
 #### Graphs and Trees
 1. [Inorder Successor](https://www.techiedelight.com/find-inorder-successor-given-key-bst/)
@@ -42,3 +44,13 @@ Most of tree problems can be thought of graph problems and bfs/dfs can solve the
 3. [Graph Traversals](https://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/) 
 4. [Graph Solutions - Flow Related + MST](https://leetcode.com/problems/network-delay-time/discuss/471164/Python-DFS-BFS-Dijkstra-Bellman-Ford-Floyd-Warshall)
 5. 
+
+#### Advance DS
+1. [Tries](https://www.geeksforgeeks.org/trie-insert-and-search/)
+    1. [Using Ordered Dict](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/58953/AC-Python-solution-using-defaultdict)
+2. Heaps - Min Heap - Max Heap - Heapify Python
+3. [Union Find - Disjoint Sets](https://www.youtube.com/watch?v=wU6udHRIkcc)
+
+
+#### Advanced Algorithms
+1. 
