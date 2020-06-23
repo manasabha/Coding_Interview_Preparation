@@ -29,3 +29,5 @@ These are some of the follow up questions you can ask the interviewer to get mor
     2. Measure the length of lists if O(n) + Rest of the O(solution) 
     3. Make Multiple lists if it is easy solution
         1. E.g Sort odd after even - Create a odd list and Even List and then just join
+    4. Take Advantage of insert@head or insert@tail to achieve O(1) Insert time instead of O(n) insert.
+    5. 
