@@ -5,8 +5,7 @@
 #### Advance DS
 1. [Tries](https://www.geeksforgeeks.org/trie-insert-and-search/)
     1. [Using Ordered Dict](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/58953/AC-Python-solution-using-defaultdict)
-#### Tree Traversals
-1. [Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/31381/Python-recursive-and-iterative-solutions.)
+    
 #### Linked Lists (LL)
 1. Nth from the End of LL 
     - O(1) Space O(n)
@@ -23,6 +22,19 @@
 5. Merge Sorted Lists
 6. LL Palindrome
 7. LL + Random Links
+
+Most of tree problems can be thought of graph problems and bfs/dfs can solve them.
+#### Tree Traversals
+1. [Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/31381/Python-recursive-and-iterative-solutions.)
+2. [Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/discuss/45290/Python-solutions-(recursively-and-iteratively).)
+3. [Postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/45785/Share-my-two-Python-iterative-solutions-post-order-and-modified-preorder-then-reverse)
+4. [Level Order](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/33464/5-6-lines-fast-python-solution-(48-ms))
+
+#### BST
+1. Write Insert Delete Search operation
+2. [Least Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/322190/python-very-simple-iterative-solution.-faster-than-99.)
+3. [Is Binary Tree a BST](https://leetcode.com/problems/validate-binary-search-tree/)
+
 
 #### Graphs and Trees
 1. [Inorder Successor](https://www.techiedelight.com/find-inorder-successor-given-key-bst/)
